@@ -20,8 +20,6 @@ Skills: Python / JAVA / HTML / CSS / Bootstrap
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sakib99-cyber)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib99-cyber)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib99-cyber&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Sakib99-cyber)  
