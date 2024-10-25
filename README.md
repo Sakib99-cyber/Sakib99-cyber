@@ -4,7 +4,7 @@ ZNRF University of Management Sciences is where I am currently enrolled.
 - Department of Computer Science and Engineering (CSE).
 - Ex-Notredamian, Batch 2015
 
-Skills: Python / JAVA / HTML / CSS / Bootstrap
+Skills: Core Language: Python / JAVA, Secondary Language: HTML / CSS / Bootstrap / Javascript
 
 - 🔭 I’m currently working on Data Science with Python 
 - 🌱 I’m currently learning Python and JAVA 
