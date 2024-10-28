@@ -6,9 +6,9 @@ ZNRF University of Management Sciences is where I am currently enrolled.
 
 Skills: Core Language: Java / Python , Secondary Language: Javascript, HTML, CSS, Bootstrap etc.  
 
-- 🔭 I’m currently working on Data Science with Python 
+- 🔭 I’m currently working on Data Analysis with Python and Java for Back End 
 - 🌱 I’m currently learning Python and JAVA 
-- 👯 I’m looking to collaborate on Web Development 
+- 👯 I’m looking to collaborate on Web Development and OOP
 - 🤔 I’m looking for help with Developers 
 - 💬 Ask me about JAVA and Python related problem 
 - 📫 How to reach me: You can email me (shakib.ahmed.iteo@gmail.com) 
