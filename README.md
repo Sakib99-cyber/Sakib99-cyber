@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Md. Salauddin Ahmed Sakib.
-#### Web Developer (Python & JavaScript)
+#### Back End Developer ( Language Java and Python )
 ZNRF University of Management Sciences is where I am currently enrolled.
 - Department of Computer Science and Engineering (CSE).
 - Ex-Notredamian, Batch 2015
 
-Skills: Core Language: Python / Javascript , Secondary Language: HTML / CSS / Bootstrap / Java 
+Skills: Core Language: Java / Python , Secondary Language: Javascript, HTML, CSS, Bootstrap etc.  
 
 - 🔭 I’m currently working on Data Science with Python 
 - 🌱 I’m currently learning Python and JAVA 
