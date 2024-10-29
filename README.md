@@ -1,16 +1,16 @@
 ### Hi there 👋, My name is Md. Salauddin Ahmed Sakib.
-#### Back End Developer ( Language Java and Python )
+#### Data Analyst (Python)
 ZNRF University of Management Sciences is where I am currently enrolled.
 - Department of Computer Science and Engineering (CSE).
 - Ex-Notredamian, Batch 2015
 
-Skills: Core Language: Java / Python , Secondary Language: Javascript, HTML, CSS, Bootstrap etc.  
+Skills: Core Language: (Python, R) Secondary Language: (Javascript, HTML, CSS, Bootstrap, Java) etc.  
 
-- 🔭 I’m currently working on Data Analysis with Python and Java for Back End 
-- 🌱 I’m currently learning Python and JAVA 
-- 👯 I’m looking to collaborate on Web Development and OOP
-- 🤔 I’m looking for help with Developers 
-- 💬 Ask me about JAVA and Python related problem 
+- 🔭 I’m currently working on Data Analysis with Python
+- 🌱 I’m currently learning Python and R
+- 👯 I’m looking to collaborate on Python Based Programe
+- 🤔 I’m looking for help with Developers and companies
+- 💬 Ask me about Python
 - 📫 How to reach me: You can email me (shakib.ahmed.iteo@gmail.com) 
 
 
